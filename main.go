@@ -11,6 +11,7 @@ func main() {
 	array := [5]int{5, 7, 9, 2, 2}
 	target := 11
 	fmt.Println(id)
+	fmt.Println(id)
 	a := twoSum(array, target)
 	fmt.Println(a)
 }
